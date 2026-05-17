@@ -41,7 +41,7 @@ apps/                       # 应用脚本目录（可直接运行）
 └── cycle_analysis/        # 循环数据分析应用
     └── dqv_analysis_mit.py  # MIT数据集dQ/dV分析
 
-20degC/                    # EIS data
+20degC/                    # EIS data in different Temperature
 ...
 ```
 

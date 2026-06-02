@@ -12,7 +12,7 @@ pip install -e .
 
 ## 包结构说明
 ```
-battery_analysis/           # 核心包目录
+battery_analysis/           # core package
 ├── __init__.py            # 包入口，导出所有公共接口
 ├── eis/                   # EIS分析模块
 │   ├── reader.py          # EIS数据读取与预处理

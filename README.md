@@ -9,7 +9,6 @@ pip install -r requirements.txt
 # Toolkit Installation
 pip install -e .
 ```
-
 ## 包结构说明
 ```
 battery_analysis/           # core package
